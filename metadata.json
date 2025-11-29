@@ -1,0 +1,5 @@
+{
+  "name": "GlassFocus",
+  "description": "A premium Pomodoro timer and To-Do list application featuring a modern Glassmorphism UI, task integration, statistics, and ambient sounds.",
+  "requestFramePermissions": []
+}
